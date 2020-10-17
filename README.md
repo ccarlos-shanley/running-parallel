@@ -1,5 +1,5 @@
 ## running-parallel
-## Examples of parallel (GNU) usage
+### Examples of parallel (GNU) usage
 
 ### running same job with multiple files at the same
 
